@@ -7,7 +7,3 @@ I am an M.I student at the University of Toronto.
 I study data science, and I'm also interested in AI alignment.
 
 At one point, the International Flipper Pinball Association said that I was [91st in Quebec](https://www.ifpapinball.com/tournaments/view.php?t=18466) at pinball. Apparently I haven't played enough games to stay on the leaderboard. ¯\\\_(ツ)\_/¯
-
-```{r}
-1 + 1
-```
