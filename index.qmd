@@ -4,10 +4,6 @@ title: "Michaela Drouillard"
 
 I am an M.I student at the University of Toronto.
 
-To hyperlink something, you \[wrap the text\] (and put the link).
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
 ```{r}
 1 + 1
 ```
